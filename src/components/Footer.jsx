@@ -18,7 +18,7 @@ const Footer = () => {
             color: isDark ? 'rgb(0, 0, 0)' : 'rgb(255, 255, 255)',
           }}
           className="github-repo-link"
-          href="https://milyazkamil.github.io/Jarvis-AI-Assistant/"
+          href="https://github.com/milyazkamil/Jarvis-AI-Assistant"
           target="_blank"
         >
           <GithubIcon />
